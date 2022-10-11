@@ -1,0 +1,8 @@
+2*seve.zip
+2*seve/
+*.csv
+*.tsv
+weights*
+.ipynb_checkpoints/
+core
+.vscode
