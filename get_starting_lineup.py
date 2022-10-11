@@ -238,7 +238,7 @@ if __name__ == '__main__':
     for sample_game in last_five:
         pprint(games_lineup[sample_game])
 
-    # 졌는지 이겼는지 체크
+    # 졌는지 이겼는지 체크 (승패 여부 어디서 담아올지 결정 필요)
     write_lineup_data(games_lineup)
 
 '''
